@@ -1,0 +1,7 @@
+
+	1.	npm install gh-pages
+	2.	githup new repostiy create
+	3.	add your homepage giturl 	("http://mohammad-ahmadi10.github.io/smart-brain")
+	4.	add on the scrips these
+					1. "predeploy":"npm run build"
+					2. "deploy":"gh-pages -d build"

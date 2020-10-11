@@ -1,0 +1,16 @@
+.bound_box{
+    position: absolute;
+    box-shadow: 0 0 0 3px #149df2 inset;
+    top:0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    
+}
+
+.middle{
+    margin-right: auto;
+    margin-left: auto;
+    display: flex;
+    justify-content: center;
+}
